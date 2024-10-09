@@ -37,6 +37,18 @@ const Navbar = () => {
                     </button>
                 </div>
             </div>
+            {mobileDrawer && (
+                <div className="fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+                    <ul>
+                        <li>
+                            <a href="#">Features</a>
+                        </li>
+                        <li>
+                            <a href="#"></a>
+                        </li>
+                    </ul>
+                </div>
+            )}
         </div>
     </nav>
   )
