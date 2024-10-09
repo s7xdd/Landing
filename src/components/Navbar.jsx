@@ -38,15 +38,29 @@ const Navbar = () => {
                 </div>
             </div>
             {mobileDrawer && (
-                <div className="fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center lg:hidden">
+                <div className="fixed right-0 z-20 bg-neutral-900 w-full p-12 mt-2 flex flex-col justify-center items-center lg:hidden">
                     <ul>
-                        <li>
+                        <li className='py-4'>
                             <a href="#">Features</a>
                         </li>
-                        <li>
-                            <a href="#"></a>
+                        <li className='py-4'>
+                            <a href="#">Workflow</a>
+                        </li>
+                        <li className='py-4'>
+                            <a href="#">Pricing</a>
+                        </li>
+                        <li className='py-4'>
+                            <a href="#">Testmonials</a>
                         </li>
                     </ul>
+                    <div className="flex space-x-6">
+                        <div className="py-2 px-3 border rounded-md">
+                            Sign in
+                        </div>
+                        <div className="py-2 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800">
+                            Create an account
+                        </div>
+                    </div>
                 </div>
             )}
         </div>
