@@ -24,7 +24,7 @@ const HeroSection = () => {
                 Documentation
             </a>
         </div>
-        <div className='flex mt-2 justify-center pl-14 pr-14'>
+        <div className='flex mt-2 justify-center'>
             <video 
                 autoPlay 
                 loop 
