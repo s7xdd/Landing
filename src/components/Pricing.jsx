@@ -38,7 +38,7 @@ const Pricing = () => {
             </ul>
             <a
               href="#"
-              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-900 border border-orange-900 rounded-lg transition duration-200"
+              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-600 border border-orange-600 rounded-lg transition duration-200"
             >
               Subscribe
             </a>
@@ -75,7 +75,7 @@ const Pricing = () => {
             </ul>
             <a
               href="#"
-              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-900 border border-orange-900 rounded-lg transition duration-200"
+              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-600 border border-orange-600 rounded-lg transition duration-200"
             >
               Subscribe
             </a>
@@ -109,7 +109,7 @@ const Pricing = () => {
             </ul>
             <a
               href="#"
-              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-900 border border-orange-900 rounded-lg transition duration-200"
+              className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-orange-600 border border-orange-600 rounded-lg transition duration-200"
             >
               Subscribe
             </a>
