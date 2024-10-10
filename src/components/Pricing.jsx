@@ -7,7 +7,7 @@ const Pricing = () => {
         Pricing
       </h2>
       <div className="flex flex-wrap justify-center">
-        <div className="flex gap-5 justify-center mt-6 gap-14">
+        <div className="flex flex-col lg:flex-row justify-center mt-6 gap-14">
           <div className="p-10 border border-neutral-700 rounded-xl w-66">
             <p className="text-4xl mb-8">
               Free
