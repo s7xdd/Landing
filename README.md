@@ -11,7 +11,7 @@ A beautiful landing page created using React.
   <h3 align="center">VRWorld</h3>
 
   <p align="center">
-    An awesome frontend react template!
+    An awesome mobile responsive frontend react template!
     <br />
     <a href="https://github.com/s7xdd/Landing"><strong>Explore the docs »</strong></a>
     <br />
