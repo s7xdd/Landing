@@ -16,7 +16,7 @@ A beautiful landing page created using React.
     <a href="https://github.com/s7xdd/Landing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/s7xdd/Landing">View Demo</a>
+    <a href="https://virtualworld-s7xdd.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/s7xdd/Landing/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
